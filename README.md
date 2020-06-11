@@ -1,2 +1,1 @@
-# BookMark-
-Bookmark project 
+# TypescriptBookmarkManager
